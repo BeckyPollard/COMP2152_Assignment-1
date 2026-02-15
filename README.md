@@ -4,6 +4,10 @@
 
 This repository contains my work for **Assignment 1** of the COMP2152 course. The assignment focuses on core Python fundamentals — working with variables, data types, dictionaries, lists, loops, conditionals, and user input — all within the context of a workout tracking program.
 
+## Et voila
+<img width="451" height="554" alt="Screenshot 2026-02-15 175851" src="https://github.com/user-attachments/assets/0ae1c936-d1f9-4823-86fe-866f5974a8e2" />
+
+
 ## The Assignment
 
 The program tracks workout minutes (yoga, running, and weightlifting) for a group of friends. It covers the following tasks:
